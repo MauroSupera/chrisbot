@@ -10,12 +10,20 @@ var functionMessageSorteio = mensagens[Math.floor(Math.random() * mensagens.leng
 // Mensagens a ser enviada pelo bot:
 let enviar = {
   espere: functionMessageSorteio,
-  errormsg: 'Ops, ocorreu um erro na sua solicitação. Tente novamente ou pode ser uma falha na api',
+  Error: 'Ops, ocorreu um erro na sua solicitação. Tente novamente ou pode ser uma falha na api',
   NotNamePlay: '️ Está faltando o nome da música. Exemplo *!play Automotivo Lully Chan*',
-  levelon: 'Leveling ativado com sucesso.',
-  leveloff: 'Leveling desativado com sucesso.',
-  levelnoton: 'Leveling não está ativado..',
-  levelErr: 'Erro identificado! Entre em contato com o dono para a resolução do problema.',
+  Ytmp4: 'Aguarde um momento, baixando seu vídeo',
+  Ytmp3: 'Aguarde um momento, baixando seu áudio ',
+  Correio: 'Aguarde um momento, enviando a sua mensagem pelo correio anônimo',
+  Print: 'Aguarde um pouco, entrando no site solicitado',
+  Logos: 'Coloque um nome na frente para obter o resultado da logo',
+  Grupo: 'Desculpe, este comando só pode ser executado em grupos',
+  Adm: 'Ei humano, este comando apenas admin podem usar',
+  BotAdm: 'Ops, para executar este comando é nescessário o bot ser admin',
+  Vip: 'Somente usuários vip podem utilizar este comando',
+  
+  
+  
 }
 
 // Sorteio Aleatório - ( Por meio de números ):

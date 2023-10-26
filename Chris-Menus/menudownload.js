@@ -7,7 +7,7 @@ return `
      MENU - DOWNLOADS
 ╰━━━━━•𖧹❀⃘࣭࣭࣭࣭ٜꔷ⃔໑࣭࣭ٜ💎❀⃘࣭࣭࣭࣭ٜꔷ⃔໑࣭࣭ٜ𖧹•━━━━━╯
 
-ꦼꦽ➮ FUNÇÕES DE DOWNLOADS
+❯❯ FUNÇÕES DE DOWNLOADS ❮❮
 
 ┠➥[💎]  ${prefix}Play
 ┠➥[💎]  ${prefix}Play2
@@ -31,7 +31,7 @@ return `
 ┠➥[💎]  ${prefix}Imgpralink
 ┠➥[💎]  ${prefix}Videopralink
 
-ꦼꦽ➮ FUNÇÕES DE PESQUISAS
+❯❯ FUNÇÕES DE PESQUISAS ❮❮
 
 ┠➥[💎]  ${prefix}Nerding (Nome) 
 ┠➥[💎]  ${prefix}Brasileirao (Tabela)
@@ -57,8 +57,9 @@ return `
 ┠➥[💎]  ${prefix}Crimg (Texto)
 ┠➥[💎]  ${prefix}Pinterest (Nome) 
 ┠➥[💎]  ${prefix}Gimage (Nome) 
+┠➥[💎]  ${prefix}printsite (link)
 
-ꦼꦽ➮ FUNÇÕES DE JORNALISTA
+❯❯ FUNÇÕES DE JORNALISTA ❮❮
 
 ┠➥[💎]  ${prefix}Noticias (Tema)
 ┠➥[💎]  ${prefix}Cnnbrasil (Notícias)
@@ -66,6 +67,13 @@ return `
 ┠➥[💎]  ${prefix}Poder360 (Notícias)
 ┠➥[💎]  ${prefix}Uol (Notícias)
 ┠➥[💎]  ${prefix}Jovempan (Notícias)
+
+❯❯ FUNÇÕES DE FRASES ❮❮
+
+┠➥[💎]  ${prefix}frase
+┠➥[💎]  ${prefix}fraseamor
+┠➥[💎]  ${prefix}frasestatus
+┠➥[💎]  ${prefix}frasedebochada
 `;
 };
 
