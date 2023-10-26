@@ -1,0 +1,10 @@
+[
+  {
+    "command": "Menu",
+    "info": "❮❮ CHRIS - BOT ❯❯\n\n❏᭄➮ /menu: vai te mostrar os menus disponíveis de comandos para você usar"
+  },
+  {
+    "command": "Fechar Grupo",
+    "info": "❯❯ FECHAR GRUPO ❮❮\n\n*ஓீ͜⃝⃕Abaixo estarei ensinando um pouco como usar o fechar grupo temporário*\n\n*ஓீ͜⃝⃕Siga os passos corretamente para obter um resultado bom*\n\n❯❯ EXPLICAÇÃO BREVE ❮❮\n\n*ஓீ͜⃝⃕Este comando serve para você fechar seu grupo em um horário disponível, exemplo: grupo30s, o grupo será fechado e aberto após os 30 segundos.*\n\n❯❯ HORÁRIOS DISPONÍVEIS ❮❮\n\n*grupo30s*\n*grupo1m*\n*grupo2m*\n*grupo5m*\n*grupo10m*\n*grupo20m*\n*grupo30m*\n*grupo1h*\n*grupo3h*\n*grupo5h*\n*grupo12h*\n\n❯❯ EXEMPLO DE USO ❮❮\n\n!grupo30s\n!grupo5h\n!grupo1m\n\nAmbos usados abrirão no horário definido.\n\n❯❯ FIM ❮❮\n\nExplicação breve, mais detalhada...."
+  }
+]
